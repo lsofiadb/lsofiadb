@@ -3,7 +3,7 @@
 
 <!--<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /> -->
 
-## I'm a Systems Engineering student at Distrital University 📚 <img width="160px" align="right" src="https://camo.githubusercontent.com/be37cdc8f930300096c506ad4574eaae977c48fbb2705cfcb92f4eeab8282c7a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966" />
+## I'm a Systems Engineering student at District University 📚 <img width="160px" align="right" src="https://camo.githubusercontent.com/be37cdc8f930300096c506ad4574eaae977c48fbb2705cfcb92f4eeab8282c7a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966" />
 
 - :round_pushpin: Last year I finished the program *MISION TIC 2022* with the *National University of Colombia*, where I learned about microservices, deployment, backend development and API´s building with Spring boot, this was an amazing experience. 
 - 🔭 I’m currently learning on web development technologies like JavaScript, React, etc.
