@@ -70,6 +70,8 @@
    <a href="https://github.com/lsofiadb/github-readme-stats">
      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=lsofiadb&show_icons=true&include_all_commits=true&theme=onedark"                 alt="Badri's github stats" />
    </a>
+   <br />
+   <br />
    <a href="https://github.com/lsofiadb/github-readme-stats">
      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=lsofiadb&layout=compact&theme=onedark" />
    </a>
