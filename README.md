@@ -80,5 +80,4 @@
    </p>
 <div/>
 
-#### Contribution Graph
 [![Laura Dueñas's github activity graph](https://activity-graph.herokuapp.com/graph?username=lsofiadb&theme=react-dark)](https://github.com/lsofiadb/github-readme-activity-graph)
