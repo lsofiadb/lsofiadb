@@ -9,7 +9,6 @@
 
 <ul align="justify">
   <li>📍 I finished the program MISION TIC 2022 with the National University of Colombia, where I learned about microservices, deployment, backend/frontend development and API´s building with Spring boot, this was an amazing experience.</li>
-  <li>🔭 I’m currently learning about development technologies like JavaScript and React.</li>
   <li>🔬 I really enjoy solving problems through programming, improving my skills and learning new technologies.</li>
   <li>⚡️ In my free time I used to read books about poetry, fantasy and real life stories.</li>
 </ul>
